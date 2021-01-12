@@ -1,2 +1,3 @@
 zadanie 7 branch-1
-zadanie 9 modyfikowanie pliku branch-1-test.txt
+zadanie 9 modyfikowanie pliku branch-1-test.txt na branch-conflict i branch-conflict-2
+
